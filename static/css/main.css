@@ -1,12 +1,12 @@
 body {
-    background-color: black;
+    background-color: rgb(158, 158, 158);
 }
 
 .title {
-    width: 180px;
+    width: 173px;
     font-size: xx-large;
     margin: auto;
-    color: red;
+    color: rgb(62, 62, 62);
 }
 
 .content {
@@ -29,4 +29,11 @@ img {
 .ava {
     width: 20%;
     margin: auto;
+}
+
+.name {
+    color: rgb(62, 62, 62);
+    width: 211px;
+    margin: auto;
+    font-size: xx-large;
 }
