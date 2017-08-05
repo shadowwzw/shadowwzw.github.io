@@ -21,3 +21,12 @@ a {
 a:hover {
     color: #8968ff;
 }
+
+img {
+    width: 100%;
+}
+
+.ava {
+    width: 20%;
+    margin: auto;
+}
