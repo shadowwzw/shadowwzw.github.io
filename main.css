@@ -10,11 +10,14 @@ body {
 }
 
 .content {
-    color: #5f21ff;
     width: 50%;
     margin: auto;
 }
 
-.content:hover {
+a {
+    color: #5f21ff;
+}
+
+a:hover {
     color: #8968ff;
 }
