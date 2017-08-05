@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+.title {
+    width: 180px;
+    font-size: xx-large;
+    margin: auto;
+    color: red;
+}
+
+.content {
+    color: #5f21ff;
+    width: 50%;
+    margin: auto;
+}
+
+.content:hover {
+    color: #8968ff;
+}
