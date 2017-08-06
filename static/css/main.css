@@ -10,9 +10,8 @@ body {
 }
 
 .content {
-    width: 50%;
+    width: 400px;
     margin: auto;
-    text-align: center;
 }
 
 a {
@@ -37,4 +36,8 @@ img {
     width: 220px;
     margin: auto;
     font-size: 32px;
+}
+
+body {
+    width: 500px;
 }
