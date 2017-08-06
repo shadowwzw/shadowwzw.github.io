@@ -3,15 +3,13 @@ body {
 }
 
 .title {
-    width: 173px;
     font-size: xx-large;
-    margin: auto;
     color: rgb(62, 62, 62);
+    text-align: center;
 }
 
 .content {
-    width: 400px;
-    margin: auto;
+    text-align: center;
 }
 
 a {
@@ -33,11 +31,7 @@ img {
 
 .name {
     color: rgb(62, 62, 62);
-    width: 220px;
     margin: auto;
     font-size: 32px;
-}
-
-body {
-    width: 500px;
+    text-align: center;
 }
